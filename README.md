@@ -1,3 +1,3 @@
 ## * Sembolü ile Ters Üçgen Çizimi
 
-Program, basamak sayısının kullanıcıdan alarak ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizer.
+Program, basamak sayısını kullanıcıdan alarak ve döngüler kullanarak, yıldızlar(*) ile ekrana ters üçgen çizer.
